@@ -1,0 +1,2 @@
+- Hello! I am Erick Osterloh a Freshman Computer Science student at Colorado College graduating in 2028.
+- I am very interested in Machine Learning, Data Science, Python, Java, and everything Computer Science!
